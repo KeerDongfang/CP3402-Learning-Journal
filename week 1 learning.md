@@ -1,4 +1,4 @@
-# Week X: Development and Refinement of HarmonyHub
+# Week 1: Development and Refinement of HarmonyHub
 
 **Date:**
 2025/1/23 3:00 PM - 5:00 PM
