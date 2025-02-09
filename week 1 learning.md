@@ -63,16 +63,6 @@
 - **Git & Version Control:** GitHub repository for tracking project progress  
 
 
-## Estimated Hours Spent
-| Activity                      | Hours |
-|--------------------------------|-------|
-| Research on workplace bullying | 3     |
-| Wireframing & UI/UX Design     | 2     |
-| Exploring Android development  | 3     |
-| Learning GitHub workflows      | 1     |
-| **Total**                      | **9** |
-
-
 ## Content Insights  
 - **User Experience is Key:** A well-designed UI/UX ensures users can easily navigate and engage with the platform.  
 - **Security & Privacy:** The **reporting system must be secure** to protect users' confidentiality.  
