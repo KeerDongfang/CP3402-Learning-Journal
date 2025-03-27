@@ -1,5 +1,5 @@
 # week 6
-**Date** March 26, 2025 – Team Setup Session
+**Date** March 13, 2025 – Team Setup Session
 
 ## Learning Activities & Resources
 
