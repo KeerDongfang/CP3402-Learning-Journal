@@ -1,5 +1,5 @@
 # week 10
-**Date** 
+**Date** 4/13/2025
 
 ## Learning Activities & Resources
 - Participated in a group stand-up meeting to discuss the current status of our presentation and individual progress.
